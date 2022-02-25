@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\Ex5_4\bin\Debug\net6.0\Ex5_4.exe
+D:\cat32tw\Desktop\Ex5_4\bin\Debug\net6.0\Ex5_4.deps.json
+D:\cat32tw\Desktop\Ex5_4\bin\Debug\net6.0\Ex5_4.runtimeconfig.json
+D:\cat32tw\Desktop\Ex5_4\bin\Debug\net6.0\Ex5_4.dll
+D:\cat32tw\Desktop\Ex5_4\bin\Debug\net6.0\ref\Ex5_4.dll
+D:\cat32tw\Desktop\Ex5_4\bin\Debug\net6.0\Ex5_4.pdb
+D:\cat32tw\Desktop\Ex5_4\obj\Debug\net6.0\Ex5_4.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\Ex5_4\obj\Debug\net6.0\Ex5_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\Ex5_4\obj\Debug\net6.0\Ex5_4.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\Ex5_4\obj\Debug\net6.0\Ex5_4.AssemblyInfo.cs
+D:\cat32tw\Desktop\Ex5_4\obj\Debug\net6.0\Ex5_4.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\Ex5_4\obj\Debug\net6.0\Ex5_4.dll
+D:\cat32tw\Desktop\Ex5_4\obj\Debug\net6.0\ref\Ex5_4.dll
+D:\cat32tw\Desktop\Ex5_4\obj\Debug\net6.0\Ex5_4.pdb
+D:\cat32tw\Desktop\Ex5_4\obj\Debug\net6.0\Ex5_4.genruntimeconfig.cache
